@@ -17,4 +17,4 @@ NPM run Test
 ![Demo Gif](/public/challenge.gif)
 
 ### Deployment
-[Live Site:](https://habitstack.herokuapp.com/)
+[Live Site:](https://code-challenge-kohl.vercel.app/)
